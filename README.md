@@ -1,8 +1,8 @@
-# 🔐 Crypto Tool — Compact, Quick, Agile
+# 🔐 Crypto Tool — Compact
 
 <div align="center">
 
-A **compact, quick, agile** CLI for **encryption & decryption** with modern, secure defaults.
+A **compact** CLI for **encryption & decryption** with modern, secure defaults.
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python\&logoColor=white)](#-requirements)
 [![cryptography](https://img.shields.io/badge/lib-cryptography-003B57.svg)](https://cryptography.io)
